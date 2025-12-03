@@ -1,7 +1,5 @@
 # Hola, mi nombre es Carlos Mur Estudillos 👋
 ### Senior FrontEnd Software Engineer | Freelance Developer
-
-![GitHub Profile](https://github.com/cmurestudillos.png)
 ![GitHub Followers](https://img.shields.io/github/followers/cmurestudillos?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/cmurestudillos?style=social)
 

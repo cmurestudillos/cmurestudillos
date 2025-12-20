@@ -6,7 +6,7 @@
 Soy desarrollador front-end desde 2010, con experiencia en **React, Angular, Vue, Next.js y Svelte**, creando aplicaciones web modernas y herramientas de productividad.
 
 He trabajado en proyectos internacionales y también desarrollo **proyectos personales y open-source** en GitHub, explorando nuevas tecnologías y compartiendo conocimiento con la comunidad.
-
+<img src="1694026904702.jpg" />
 > ⭐️ [GitHub Stars](https://github.com/cmurestudillos?tab=stars)
 
 > ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

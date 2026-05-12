@@ -30,7 +30,7 @@ He trabajado en proyectos internacionales y también desarrollo **proyectos pers
 | [cotizador‑de‑criptomonedas](https://github.com/cmurestudillos/cotizador-de-criptomonedas) | Web app para consultar precios de criptomonedas en tiempo real | React + TypeScript + Vite |
 | [postman‑clone](https://github.com/cmurestudillos/postman-clone) | Cliente / herramienta para probar APIs | JavaScript |
 | [mac‑notepad](https://github.com/cmurestudillos/mac-notepad) | Editor de texto / bloc de notas tipo escritorio | Electron + JavaScript |
-| [ssh‑manager](https://github.github.com/cmurestudillos/ssh-manager) | App de escritorio para gestionar conexiones SSH | Electron + JavaScript |
+| [ssh‑manager](https://github.com/cmurestudillos/ssh-manager) | App de escritorio para gestionar conexiones SSH | Electron + JavaScript |
 | [code‑editor‑clone](https://github.com/cmurestudillos/code-editor-clone) | Editor de código web con live preview HTML/CSS/JS | React + TypeScript |
 | [ant‑vpn](https://github.com/cmurestudillos/ant-vpn) | Aplicación de escritorio para VPN con OpenVPN | Electron + JS + OpenVPN |
 | [project‑task‑manager](https://github.com/cmurestudillos/project-task-manager) | Gestor de tareas/proyectos tipo kanban/local | Electron + JS/HTML/CSS |

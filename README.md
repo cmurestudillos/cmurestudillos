@@ -28,15 +28,15 @@ He trabajado en proyectos internacionales y también desarrollo **proyectos pers
 |------------|------------------------|-------------------------------|
 | [Swagger editor](https://github.com/cmurestudillos/openapi-swagger) | Editor de escritorio para especificaciones OpenAPI/Swagger con validación en tiempo real. | Electron + Javascript |
 | [Hype Terminal](https://github.com/cmurestudillos/hype-terminal) | Una moderna aplicación de terminal multiplataforma con pestañas, temas personalizables y funciones mejoradas | Electron + Javascript |
-| [postman‑clone](https://github.com/cmurestudillos/postman-clone) | Cliente / herramienta para probar APIs | JavaScript |
-| [mac‑notepad](https://github.com/cmurestudillos/mac-notepad) | Editor de texto / bloc de notas tipo escritorio | Electron + JavaScript |
-| [ssh‑manager](https://github.com/cmurestudillos/ssh-manager) | App de escritorio para gestionar conexiones SSH | Electron + JavaScript |
+| [Postman](https://github.com/cmurestudillos/postman-clone) | Cliente / herramienta para probar APIs | JavaScript |
+| [Notepad](https://github.com/cmurestudillos/mac-notepad) | Editor de texto / bloc de notas tipo escritorio | Electron + JavaScript |
+| [SSH Manager](https://github.com/cmurestudillos/ssh-manager) | App de escritorio para gestionar conexiones SSH | Electron + JavaScript |
 | [code‑editor‑clone](https://github.com/cmurestudillos/code-editor-clone) | Editor de código web con live preview HTML/CSS/JS | React + TypeScript |
-| [ant‑vpn](https://github.com/cmurestudillos/ant-vpn) | Aplicación de escritorio para VPN con OpenVPN | Electron + JS + OpenVPN |
+| [Ant VPN](https://github.com/cmurestudillos/ant-vpn) | Aplicación de escritorio para VPN con OpenVPN | Electron + JS + OpenVPN |
 | [Tracks MTB Routes](https://github.com/cmurestudillos/tracks-mtb-routes-frontend) | SPA para explorar y compartir rutas bicicleta por España | React + TypeScript + Vite |
-| [react‑movies‑app](https://github.com/cmurestudillos/react-movies-app) | Buscador de películas usando una API pública | React + JS |
-| [codepen‑clone](https://github.com/cmurestudillos/codepen-clone) | Clone web de editor HTML/CSS/JS (tipo CodePen) | React |
-| [mevn‑stack](https://github.com/cmurestudillos/mevn-stack) | CRUD full‑stack usando MEVN (Vue + Node/Express) | Vue.js + Node + Express + JS |
+| [Buscador de Canciones](https://github.com/cmurestudillos/buscador-canciones) | SPA para buscar letras de canciones e información de artistas usando las APIs lyrics.ovh y TheAudioDB. | React + JS |
+| [Codepen](https://github.com/cmurestudillos/codepen-clone) | Clone web de editor HTML/CSS/JS (tipo CodePen) | React |
+| [Buscador de bebidas](https://github.com/cmurestudillos/buscador-bebidas) | Aplicación SPA para buscar cócteles y bebidas por ingrediente o categoría | Vue.js + Node + Express + JS |
 | [To Do List Manager](https://github.com/cmurestudillos/todoist-manager-frontend) | Interfaz web para gestionar listas de tareas | React + Javascript + Vite |
 
 

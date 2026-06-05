@@ -36,7 +36,8 @@ He trabajado en proyectos internacionales y también desarrollo **proyectos pers
 | [Tracks MTB Routes](https://github.com/cmurestudillos/tracks-mtb-routes-frontend) | SPA para explorar y compartir rutas bicicleta por España | React + TypeScript + Vite |
 | [Buscador de Canciones](https://github.com/cmurestudillos/buscador-canciones) | SPA para buscar letras de canciones e información de artistas usando las APIs lyrics.ovh y TheAudioDB. | React + JS |
 | [Codepen](https://github.com/cmurestudillos/codepen-clone) | Clone web de editor HTML/CSS/JS (tipo CodePen) | React |
-| [Buscador de bebidas](https://github.com/cmurestudillos/buscador-bebidas) | Aplicación SPA para buscar cócteles y bebidas por ingrediente o categoría | Vue.js + Node + Express + JS |
+| [Buscador de bebidas](https://github.com/cmurestudillos/buscador-bebidas) | Aplicación SPA para buscar cócteles y bebidas por ingrediente o categoría | React.js + JS |
+| [Buscador de imagenes](https://github.com/cmurestudillos/buscador-de-imagenes) | Aplicación web moderna de búsqueda de imágenes | Vue.js + Node + Express + JS |
 | [To Do List Manager](https://github.com/cmurestudillos/todoist-manager-frontend) | Interfaz web para gestionar listas de tareas | React + Javascript + Vite |
 
 

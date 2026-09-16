@@ -39,6 +39,7 @@ He trabajado en proyectos internacionales y también desarrollo **proyectos pers
 | [Buscador de bebidas](https://github.com/cmurestudillos/buscador-bebidas) | Aplicación SPA para buscar cócteles y bebidas por ingrediente o categoría | React.js + JS |
 | [Buscador de imagenes](https://github.com/cmurestudillos/buscador-de-imagenes) | Aplicación web moderna de búsqueda de imágenes | Vue.js + Node + Express + JS |
 | [To Do List Manager](https://github.com/cmurestudillos/todoist-manager-frontend) | Interfaz web para gestionar listas de tareas | React + Javascript + Vite |
+| [WorkList](https://github.com/cmurestudillos/worklist-frontend) | SPA para gestionar listas de tareas de proyectos de desarrollo. | Vue.js + Javascript + Vite |
 
 
 ## Contacto y apoyo

@@ -38,7 +38,8 @@ He trabajado en proyectos internacionales y también desarrollo **proyectos pers
 | [Codepen](https://github.com/cmurestudillos/codepen-clone) | Clone web de editor HTML/CSS/JS (tipo CodePen) | React |
 | [Buscador de bebidas](https://github.com/cmurestudillos/buscador-bebidas) | Aplicación SPA para buscar cócteles y bebidas por ingrediente o categoría | React.js + JS |
 | [Buscador de imagenes](https://github.com/cmurestudillos/buscador-de-imagenes) | Aplicación web moderna de búsqueda de imágenes | Vue.js + Node + Express + JS |
-| [To Do List Manager](https://github.com/cmurestudillos/todoist-manager-frontend) | Interfaz web para gestionar listas de tareas | React + Javascript + Vite |
+| [Buscador de imagenes](https://github.com/cmurestudillos/buscador-de-imagenes) | Aplicación web moderna de búsqueda de imágenes | Vue.js + Node + Express + JS |
+| [Test Planner](https://github.com/cmurestudillos/test-runner) | Interfaz para ejecutar, gestionar y monitorear tests unitarios y E2E de manera eficiente | Electron + JS |
 | [WorkList](https://github.com/cmurestudillos/worklist-frontend) | SPA para gestionar listas de tareas de proyectos de desarrollo. | Vue.js + Javascript + Vite |
 
 
